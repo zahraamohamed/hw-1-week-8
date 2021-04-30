@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">hw1wwek8design</string>
+    <string name="zahraa_mohammed">Zahraa Mohammed</string>
+    <string name="baghdad_iraq">baghdad,Iraq</string>
+    <string name="more">more</string>
+    <string name="timeline">timeline</string>
+    <string name="about">about</string>
+    <string name="photos">photos</string>
+    <string name="friends">friends</string>
+    <string name="write_some_thing_to_zahraa">write some thing to zahraa...</string>
+
+    <string name="aliaa_nasser">aliaa nasser</string>
+    <string name="ali_ahmed">ali ahmed</string>
+    <string name="noor_karar">noor karar</string>
+    <string name="sarah_ali">sarah ali</string>
+</resources>
